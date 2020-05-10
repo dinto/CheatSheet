@@ -15,6 +15,7 @@
 ### Cheat Sheets 
 
 - **[Git & Github](./cheatsheets/git.md)**
+- **[Linux](./cheatsheets/linux-cheat-sheet.md)**
 
 ---
 
